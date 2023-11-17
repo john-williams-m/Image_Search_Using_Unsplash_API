@@ -1,5 +1,4 @@
 import { useCallback, useState } from "react";
-import "./App.css";
 import { CircularProgress, Container, Typography } from "@mui/material";
 import axios from "axios";
 import Images from "./components/Images";
