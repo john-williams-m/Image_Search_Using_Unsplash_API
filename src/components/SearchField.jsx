@@ -38,8 +38,8 @@ function SearchField({ sendRequest }) {
       <form noValidate onSubmit={handleFormSubmit} autoComplete="off">
         <FormControl
           sx={{
-            width: { xs: "100%", md: "400px" },
-            m: "1rem",
+            width: { xs: "80vw", md: "400px" },
+            m: "1rem 0rem",
           }}
           variant="outlined"
         >
